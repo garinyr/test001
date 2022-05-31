@@ -100,7 +100,7 @@
                     <div class="col-sm-6 col-md-7">
                       <div class="about-info">
                         <p><span class="title-s">Name: </span> <span>{{ $getAbout->name ?? '-' }}</span></p>
-                        <p><span class="title-s">Profile: </span> <span>{{ $getAbout->role ?? '-' }}</span></p>
+                        <p><span class="title-s">Role: </span> <span>{{ $getAbout->role ?? '-' }}</span></p>
                         <p><span class="title-s">Email: </span> <span>{{ $getAbout->email ?? '-' }}</span></p>
                         <p><span class="title-s">Phone: </span> <span>{{ $getAbout->phone ?? '-' }}</span></p>
                       </div>

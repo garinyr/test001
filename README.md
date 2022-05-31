@@ -1,4 +1,4 @@
-## MY-PFOLIO
+## MY-PORTFOLIO
 <p><b>
-MY-PFOLIO adalah aplikasi website portfolio dengan konten dinamis.
+MY-PORTFOLIO adalah aplikasi website portfolio dengan konten dinamis.
 </b></p>
